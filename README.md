@@ -90,4 +90,4 @@ Wow, you just built a tool for other developers to use while also creeating the 
 5. Submit a pull request :D
 
 #### CHEERS!
-[:beer:,:beer:].reduce( :beer: => :beer: + :beer: ) === :beers:
+[:beer:,:beer:].reduce( (:cocktail:,:bear:)  => :cocktail: + :bear: ) === :beers:
