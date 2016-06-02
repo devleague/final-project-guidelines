@@ -2,8 +2,7 @@
 The final project is the capstone project for DevLeague students. It's purpose is to bring together all of the topics covered during their time with DevLeague, for a team based collabrative project.
 
 ## Rules
-* It cannot be a food app.
-* It cannot be an events app.
+* It cannot be a food or an events app.
 * Teams should have 3 to 5 students (Depending on class size)
 * Students are able to set their own break times, as long as they coordinate as a group.
     * break times must be coordinated around scheduled DevLeague lectures (be in class)
@@ -26,6 +25,15 @@ The final project is the capstone project for DevLeague students. It's purpose i
     * Data Processing
         * API-Consumation / Exposing API
         * CRUD operations
+* A Good DevLeague Project Has the follwoing (Pick 2):
+  * **Data Heavy**
+    * Lots of data, aggregates, D3, tells story, use of APIs
+  * **Visually engaging**
+    * Better than Meteorites, Not better than Norsecorp
+  * **Interactive**
+    * UGC, useful, fun, impressive
+
+Pick 2 or more
 
 ## Rough Timeline of Events
 |   Day 1  |   Day 2  |   Day 3  |   Day 4  |   Day 5  |   Day 6  |   Day 7  |
@@ -59,20 +67,13 @@ The following are not rules, but suggestions based on previous successful final 
 * The project should be about something all groups
 * Avoid 'Hackathon' type projects. Must have depth, and must keep everyone in the group busy developing.
 
-## Good DevLeague Project
-
-* Data Heavy (lots of data, aggregates, D3, tells story, use of APIs)
-* Visually engaging (Better than Meteorites, Not better than Norsecorp)
-* Interactive (UGC, useful, fun, impressive)
-
-Pick 2 or more
-
 ## Resources
 - [Programmable Web](http://www.programmableweb.com/apis/directory)
   - With over "14,000" APIs to choose from, surely you'll be inspired. Beware of old apis or broken api links. YMMV
 - [Data.gov](https://www.data.gov/)
   - A civil-focused Api.
 - [data.hawaii.gov](https://data.hawaii.gov/)
+- [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
   - shaka brah.
 
 ## Misc.
@@ -81,13 +82,6 @@ More often than not there is data out there without an API for it. For example, 
 Now you can build something to consume excel spreadsheets which will then populate a database, you will then serve that data through an API you build.
 
 Wow, you just built a tool for other developers to use while also creeating the project you wanted! DOUBLE WHAMMY :sparkles:
-
-## Contributing
-1. Fork it!
-2. Create your feature branch: ```git checkout -b my-new-feature```
-3. Commit your changes: ```git commit -am 'Add some feature'```
-4. Push to the branch: ````git push origin my-new-feature````
-5. Submit a pull request :D
 
 #### CHEERS!
 [:beer:,:beer:].reduce( (:cocktail:,:bear:)  => :cocktail: + :bear: ) === :beers:
