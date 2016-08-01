@@ -75,6 +75,8 @@ The following are not rules, but suggestions based on previous successful final 
 - [data.hawaii.gov](https://data.hawaii.gov/)
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
   - shaka brah.
+- [Reddit `/r/datasets`](https://www.reddit.com/r/datasets)
+  - recommended to use search functionality.
 
 ## Misc.
 More often than not there is data out there without an API for it. For example, there might not be an API available to retreive data about the [migration of coconuts](https://www.youtube.com/watch?v=H4_9kDO3q0w) but instead the data exists as an excel spreadsheet somewhere on the web.
