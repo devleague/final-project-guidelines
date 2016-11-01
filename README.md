@@ -8,11 +8,11 @@ The final project is the capstone project for DevLeague students. It's purpose i
     * break times must be coordinated around scheduled DevLeague lectures (be in class)
 * Students are expected to Scrum
     * Groups are expected scrum one to two times a day.
-    * Their will be a rotating scrum master - everyone in the group will be a scrum master at least once.
+    * There will be a rotating scrum master - everyone in the group will be a scrum master at least once.
     * Scrum Master is expected to track tasks on a [waffle.io](https://waffle.io/) board.
         * Tasks do not exist if they are not on the board.
 * The project must be able to be designed, developed, and deployed from start to finish with the alotted project time - This is based on the descretion of the instructors.
-* The project must be developed only by the team members - not outside help.
+* The project must be developed only by the team members - no outside help.
 * The final project can be a mobile app, but it must be built using JavaScript.
 * Projects should cover the following topics:
     * Front-end
@@ -25,11 +25,11 @@ The final project is the capstone project for DevLeague students. It's purpose i
     * Data Processing
         * API-Consumation / Exposing API
         * CRUD operations
-* A Good DevLeague Project Has the follwoing (Pick 2):
+* A good DevLeague project has the following (Pick 2):
   * **Data Heavy**
-    * Lots of data, aggregates, D3, tells story, use of APIs
+    * Lots of data, aggregates, D3, tells stories, uses APIs
   * **Visually engaging**
-    * Better than Meteorites, Not better than Norsecorp
+    * Better than Meteorites, not better than Norsecorp
   * **Interactive**
     * UGC, useful, fun, impressive
 
@@ -60,10 +60,10 @@ Pick 2 or more
 
 ## Suggestions
 The following are not rules, but suggestions based on previous successful final projects:
-* The project should be sufficently challenging and introduce new topics to the students.
+* The project should be sufficiently challenging and introduce new topics to the students.
     * Emphasizing and demonstrating ability to learn new skills
 * Projects with a focus on data visualization utilizing D3.js.
-* Projects wiht a focus on helping contribute to Hawaii or local government.
+* Projects with a focus on helping contribute to Hawaii or local government.
 * The project should be about something all groups
 * Avoid 'Hackathon' type projects. Must have depth, and must keep everyone in the group busy developing.
 
@@ -77,11 +77,11 @@ The following are not rules, but suggestions based on previous successful final 
   - shaka brah.
 
 ## Misc.
-More often than not there is data out there without an API for it. For example, there might not be an API available to retreive data about the [migration of coconuts](https://www.youtube.com/watch?v=H4_9kDO3q0w) but instead the data exists as an excel spreadsheet somewhere on the web.
+More often than not there is data out there without an API for it. For example, there might not be an API available to retreive data about the [migration of coconuts](https://www.youtube.com/watch?v=H4_9kDO3q0w) but instead, the data exists as an excel spreadsheet somewhere on the web.
 
-Now you can build something to consume excel spreadsheets which will then populate a database, you will then serve that data through an API you build.
+Now you can build something to consume excel spreadsheets which will then populate a database. You will then serve that data through a self built API.
 
-Wow, you just built a tool for other developers to use while also creeating the project you wanted! DOUBLE WHAMMY :sparkles:
+Wow, you just built a tool for other developers to use while also creating the project you wanted! DOUBLE WHAMMY :sparkles:
 
 #### CHEERS!
 [:beer:,:beer:].reduce( (:cocktail:,:bear:)  => :cocktail: + :bear: ) === :beers:
